@@ -89,28 +89,26 @@ MySQL         ██████████████░░░░░░  70% 
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                  ⚔️  BRIAN7ST — STATS SHEET  ⚔️              ║
-╠══════════════════════════════════════════════════════════════╣
-║  CLASS   │  Fullstack Developer [IN TRAINING]                ║
-║  LEVEL   │  ⭐⭐⭐☆☆  —  Aprendiz Avanzado                  ║
-║  XP      │  ████████████░░░░░░░░  En progreso...             ║
-╠══════════════════════════════════════════════════════════════╣
-║  STAT             │  NIVEL        │  PROGRESO                ║
-╠══════════════════════════════════════════════════════════════╣
-║  ☕ Java           │  Intermedio   │  ████████████░░  60%    ║
-║  🌱 Spring Boot   │  Aprendiendo  │  ██████████░░░░  50%    ║
-║  🔺 Angular       │  Aprendiendo  │  ████████░░░░░░  40%    ║
-║  🐳 Docker        │  Explorando   │  ██████░░░░░░░░  30%    ║
-║  🗄️ MySQL         │  Intermedio   │  ██████████████  70%    ║
-║  🔧 Git/GitHub    │  Activo       │  ████████████░░  60%    ║
-╠══════════════════════════════════════════════════════════════╣
-║  QUEST ACTUAL  │  🎓 Terminar carrera + construir proyectos  ║
-║  DEBILIDAD     │  Dormir poco por programar de noche 🌙      ║
-║  HABILIDAD ESP │  Aprender rápido y no rendirse 💪           ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### ⚔️ BRIAN7ST — STATS SHEET ⚔️
+
+| ATRIBUTO | VALOR |
+|:---|:---|
+| 🎮 **Class** | Fullstack Developer `[IN TRAINING]` |
+| ⭐ **Level** | Aprendiz Avanzado |
+| 🎯 **Quest** | Terminar carrera + construir proyectos |
+| 🌙 **Debilidad** | Dormir poco por programar de noche |
+| 💪 **Habilidad** | Aprender rápido y no rendirse |
+
+### 📊 SKILL TREE
+
+| Tecnología | Nivel | Progreso |
+|:---|:---:|:---|
+| ☕ Java | Intermedio | `████████████░░░░` 60% |
+| 🌱 Spring Boot | Aprendiendo | `██████████░░░░░░` 50% |
+| 🔺 Angular | Aprendiendo | `████████░░░░░░░░` 40% |
+| 🐳 Docker | Explorando | `██████░░░░░░░░░░` 30% |
+| 🗄️ MySQL | Intermedio | `██████████████░░` 70% |
+| 🔧 Git / GitHub | Activo | `████████████░░░░` 60% |
 
 </div>
 
